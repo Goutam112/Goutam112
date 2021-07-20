@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Goutam. I'm an undergraduate Computer Science student at the University of Toronto.
 - 👀 I’m interested in collaborating on web development and python projects.
-- 🌱 I’m currently learning HTML/CSS + Javascript and C.
-- 💪 My skills consist of Python, Java, HTML/CSS + Javascript, and MIPS Assembly.
-- 📫 To reach out to me, send an email to goutams.in@hotmail.com
+- 🌱 I’m currently learning NodeJS, ExpressJS, and how to build RESTful APIs.
+- 💪 My skills consist of Python, Java, Javascript, HTML/CSS, Bootstrap, and MongoDB.
+- 📫 To reach out to me, send an email to goutam.singh@mail.utoronto.ca
