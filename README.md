@@ -2,4 +2,5 @@
 - 👀 I’m interested in collaborating on Fullstack Web and Mobile App Development projects.
 - 🌱 I’m currently learning React concepts such as Redux & Next.js
 - 💪 My skills consist of Full-stack Web Development (JavaScript, HTML/CSS + Bootstrap, React, Node.js, Express.js, AJAX, MongoDB) and Python for AI & Data-Science (Pandas, Plotly, Seaborn, Matplotlib), along with Flutter + Dart & Firebase / GCP for Mobile Development.
+- 🙋‍♂️ To learn more about me, visit www.goutamsingh.com
 - 📫 To reach out to me, send an email to goutam.singh@mail.utoronto.ca
