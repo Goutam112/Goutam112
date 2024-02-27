@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Goutam! I'm an undergraduate Computer Science student at the University of Toronto. I also worked at Oracle for 12 months as a Software Engineer Co-op.
 - 👀 I’m interested in collaborating on Fullstack Web and Mobile App Development projects.
-- 🌱 I’m currently learning React concepts such as Redux & Next.js
+- 🌱 I’m currently learning Machine Learning & AI concepts such as Convolutional Neural Networks, Computer Vision, etc.
 - 💪 My skills consist of Full-stack Web Development (JavaScript, HTML/CSS + Bootstrap, React, Node.js, Express.js, AJAX, MongoDB) and Python for AI & Data-Science (Pandas, Plotly, Seaborn, Matplotlib), along with Flutter + Dart & Firebase / GCP for Mobile Development.
 - 🙋‍♂️ To learn more about me, visit www.goutamsingh.com
 - 📫 To reach out to me, send an email to goutam.singh@mail.utoronto.ca
